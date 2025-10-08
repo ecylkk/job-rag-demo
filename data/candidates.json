@@ -1,0 +1,65 @@
+[
+  {
+    "name": "吴琳",
+    "city_preference": "苏州",
+    "years_experience": 6,
+    "skills": [
+      "Spark",
+      "NLP",
+      "Golang"
+    ],
+    "objective": "成为产品数据分析师，提升产品转化率和用户留存"
+  },
+  {
+    "name": "陈燕",
+    "city_preference": "杭州",
+    "years_experience": 2,
+    "skills": [
+      "机器学习",
+      "Excel",
+      "NLP",
+      "Tableau",
+      "Docker",
+      "Pandas"
+    ],
+    "objective": "成为产品数据分析师，提升产品转化率和用户留存"
+  },
+  {
+    "name": "王婷",
+    "city_preference": "成都",
+    "years_experience": 2,
+    "skills": [
+      "PowerBI",
+      "Docker",
+      "统计分析",
+      "Golang"
+    ],
+    "objective": "在金融数据团队从事风控/特征工程工作"
+  },
+  {
+    "name": "杨华",
+    "city_preference": "成都",
+    "years_experience": 5,
+    "skills": [
+      "Java",
+      "A/B Test",
+      "Golang",
+      "Docker",
+      "Excel"
+    ],
+    "objective": "在金融数据团队从事风控/特征工程工作"
+  },
+  {
+    "name": "张杰",
+    "city_preference": "上海",
+    "years_experience": 6,
+    "skills": [
+      "NLP",
+      "Golang",
+      "Kubernetes",
+      "React",
+      "Pandas"
+    ],
+    "objective": "成为产品数据分析师，提升产品转化率和用户留存"
+  }
+]

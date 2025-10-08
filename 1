@@ -1,0 +1,2 @@
+$env:OPENROUTER_KEY="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"
+curl -s -X GET "https://openrouter.ai/api/v1/models" -H "Authorization: Bearer $env:OPENROUTER_KEY" -H "Content-Type: application/json" | jq .

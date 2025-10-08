@@ -1,0 +1,56 @@
+[
+  {
+    "page_content": "【岗位】Python 数据分析师\n【公司】数据未来科技\n【城市】上海\n【岗位要求】\n- 熟练使用 Python、Pandas、NumPy\n- 具备数据可视化能力，熟悉 Tableau 或 PowerBI\n- 有业务数据分析经验优先\n【岗位职责】\n- 对业务数据进行清洗、建模、可视化\n- 追踪关键指标，输出运营洞察\n- 与产品团队合作推动数据驱动决策",
+    "metadata": {
+      "job_id": "JOB-001",
+      "title": "Python 数据分析师",
+      "company": "数据未来科技",
+      "location": "上海"
+    }
+  },
+  {
+    "page_content": "【岗位】前端开发工程师\n【公司】云杉互动\n【城市】深圳\n【岗位要求】\n- 精通 React 或 Vue 框架\n- 掌握 TypeScript、Webpack、Vite 等工程化工具\n- 了解前端性能优化和跨端适配\n【岗位职责】\n- 负责公司核心产品的前端研发\n- 与设计、后端协作，保障交互体验\n- 持续优化前端架构与性能",
+    "metadata": {
+      "job_id": "JOB-002",
+      "title": "前端开发工程师",
+      "company": "云杉互动",
+      "location": "深圳"
+    }
+  },
+  {
+    "page_content": "【岗位】AI 产品经理\n【公司】智写科技\n【城市】北京\n【岗位要求】\n- 具备 2 年以上产品经理经验\n- 了解 NLP / CV 等 AI 基础知识\n- 具备跨团队协作和项目推进能力\n【岗位职责】\n- 负责 AI 方向产品规划与迭代\n- 与算法、工程团队协同推进落地\n- 关注行业趋势，输出产品策略",
+    "metadata": {
+      "job_id": "JOB-003",
+      "title": "AI 产品经理",
+      "company": "智写科技",
+      "location": "北京"
+    }
+  },
+  {
+    "page_content": "【岗位】运维工程师\n【公司】蓝鲸云\n【城市】杭州\n【岗位要求】\n- 熟悉 Linux 系统管理\n- 掌握 Kubernetes、Docker 等容器技术\n- 了解 CI/CD 流程和自动化脚本\n【岗位职责】\n- 维护公司云平台稳定运行\n- 构建监控、报警体系\n- 推进自动化运维工具建设",
+    "metadata": {
+      "job_id": "JOB-004",
+      "title": "运维工程师",
+      "company": "蓝鲸云",
+      "location": "杭州"
+    }
+  },
+  {
+    "page_content": "【岗位】营销策划专员\n【公司】星瀚传媒\n【城市】广州\n【岗位要求】\n- 具备营销活动策划与执行经验\n- 熟悉社交媒体传播策略\n- 具备较强的文案能力\n【岗位职责】\n- 策划品牌营销活动并执行落地\n- 管理社媒账号和 KOL 合作\n- 跟踪活动数据并优化策略",
+    "metadata": {
+      "job_id": "JOB-005",
+      "title": "营销策划专员",
+      "company": "星瀚传媒",
+      "location": "广州"
+    }
+  },
+  {
+    "page_content": "【岗位】Java 后端开发\n【公司】聚合金融\n【城市】上海\n【岗位要求】\n- 熟悉 Java / Spring Boot / MySQL\n- 了解微服务和分布式架构\n- 具备金融行业经验者优先\n【岗位职责】\n- 负责核心业务系统设计与开发\n- 编写高质量、高性能代码\n- 参与服务性能优化与故障排查",
+    "metadata": {
+      "job_id": "JOB-006",
+      "title": "Java 后端开发",
+      "company": "聚合金融",
+      "location": "上海"
+    }
+  }
+]

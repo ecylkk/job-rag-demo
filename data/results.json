@@ -1,0 +1,185 @@
+[
+  {
+    "candidate": {
+      "name": "吴琳",
+      "city_preference": "苏州",
+      "years_experience": 6,
+      "skills": [
+        "Spark",
+        "NLP",
+        "Golang"
+      ],
+      "objective": "成为产品数据分析师，提升产品转化率和用户留存"
+    },
+    "profile_text": "姓名：吴琳\n目标城市：苏州优先\n工作经验：6 年\n技能标签：Spark、NLP、Golang\n职业目标：成为产品数据分析师，提升产品转化率和用户留存",
+    "rag_answer": "### 匹配度评分：75%\n\n### 推荐岗位列表：\n1. **岗位：Python 数据分析师**\n   - 公司：数据未来科技\n   - 城市：上海\n   - 推荐理由：候选人熟练使用 Python，有 NLP 技能，符合岗位要求，有助于提升数据分析能力。\n   \n2. **岗位：AI 产品经理**\n   - 公司：智写科技\n   - 城市：北京\n   - 推荐理由：候选人具备 NLP 技能，职业目标与岗位需求契合，可在 AI 产品规划与迭代方面发挥优势。\n\n### 针对候选人的补充建议：\n- 加强数据可视化能力，熟悉 Tableau 或 PowerBI，有助于在数据分析岗位中展现更全面的能力。\n- 参与与产品团队的合作项目，积累业务数据分析经验，有利于未来转型为产品数据分析师。",
+    "sources_meta": [
+      {
+        "title": "营销策划专员",
+        "company": "星瀚传媒",
+        "job_id": "JOB-005",
+        "location": "广州"
+      },
+      {
+        "title": "Python 数据分析师",
+        "job_id": "JOB-001",
+        "company": "数据未来科技",
+        "location": "上海"
+      },
+      {
+        "company": "智写科技",
+        "job_id": "JOB-003",
+        "title": "AI 产品经理",
+        "location": "北京"
+      }
+    ]
+  },
+  {
+    "candidate": {
+      "name": "陈燕",
+      "city_preference": "杭州",
+      "years_experience": 2,
+      "skills": [
+        "机器学习",
+        "Excel",
+        "NLP",
+        "Tableau",
+        "Docker",
+        "Pandas"
+      ],
+      "objective": "成为产品数据分析师，提升产品转化率和用户留存"
+    },
+    "profile_text": "姓名：陈燕\n目标城市：杭州优先\n工作经验：2 年\n技能标签：机器学习、Excel、NLP、Tableau、Docker、Pandas\n职业目标：成为产品数据分析师，提升产品转化率和用户留存",
+    "rag_answer": "### 匹配度评分：75%\n陈燕的技能标签中有部分符合 Python 数据分析师岗位的要求，但缺乏业务数据分析经验，陈燕可以通过进一步学习和实践来提升匹配度。\n\n### 推荐岗位列表：\n1. **岗位名称：Python 数据分析师**\n   - 公司：数据未来科技\n   - 城市：上海\n   - 推荐理由：符合陈燕的技能标签，有利于提升 Python 数据分析能力。\n\n2. **岗位名称：运维工程师**\n   - 公司：蓝鲸云\n   - 城市：杭州\n   - 推荐理由：陈燕熟悉 Docker 技术，可以在运维工程师岗位中有所斩获。\n\n### 针对候选人的补充建议：\n- 建议陈燕继续学习业务数据分析，可以通过参与相关项目或实习来积累经验。\n- 推荐陈燕加强对 Linux 系统管理的了解，这对未来的职业发展也会有帮助。",
+    "sources_meta": [
+      {
+        "company": "数据未来科技",
+        "location": "上海",
+        "title": "Python 数据分析师",
+        "job_id": "JOB-001"
+      },
+      {
+        "job_id": "JOB-004",
+        "location": "杭州",
+        "title": "运维工程师",
+        "company": "蓝鲸云"
+      },
+      {
+        "job_id": "JOB-005",
+        "company": "星瀚传媒",
+        "location": "广州",
+        "title": "营销策划专员"
+      }
+    ]
+  },
+  {
+    "candidate": {
+      "name": "王婷",
+      "city_preference": "成都",
+      "years_experience": 2,
+      "skills": [
+        "PowerBI",
+        "Docker",
+        "统计分析",
+        "Golang"
+      ],
+      "objective": "在金融数据团队从事风控/特征工程工作"
+    },
+    "profile_text": "姓名：王婷\n目标城市：成都优先\n工作经验：2 年\n技能标签：PowerBI、Docker、统计分析、Golang\n职业目标：在金融数据团队从事风控/特征工程工作",
+    "rag_answer": "### 匹配度评分：60%\n\n王婷的技能标签中包含了 Docker 技术，与运维工程师岗位的要求相符，但缺乏对 Linux 系统管理和CI/CD流程的熟悉。因此，匹配度评分为60%。\n\n### 推荐岗位列表：\n1. **岗位：运维工程师**\n   - 公司：蓝鲸云\n   - 城市：杭州\n   - 推荐理由：王婷熟悉 Docker 技术，可在该岗位中继续学习 Linux 系统管理和CI/CD流程。\n\n2. **岗位：Python 数据分析师**\n   - 公司：数据未来科技\n   - 城市：上海\n   - 推荐理由：王婷具备统计分析能力，可通过学习 Python、Pandas、NumPy 进一步发展数据分析技能。\n\n### 针对候选人的补充建议：\n- 建议王婷加强对 Linux 系统管理和CI/CD流程的学习，这将有助于提升在运维工程师岗位上的竞争力。\n- 推荐王婷参与金融数据相关的项目，以积累风控和特征工程方面的实际经验，有利于未来职业发展。",
+    "sources_meta": [
+      {
+        "company": "蓝鲸云",
+        "title": "运维工程师",
+        "job_id": "JOB-004",
+        "location": "杭州"
+      },
+      {
+        "job_id": "JOB-005",
+        "location": "广州",
+        "company": "星瀚传媒",
+        "title": "营销策划专员"
+      },
+      {
+        "job_id": "JOB-001",
+        "title": "Python 数据分析师",
+        "company": "数据未来科技",
+        "location": "上海"
+      }
+    ]
+  },
+  {
+    "candidate": {
+      "name": "杨华",
+      "city_preference": "成都",
+      "years_experience": 5,
+      "skills": [
+        "Java",
+        "A/B Test",
+        "Golang",
+        "Docker",
+        "Excel"
+      ],
+      "objective": "在金融数据团队从事风控/特征工程工作"
+    },
+    "profile_text": "姓名：杨华\n目标城市：成都优先\n工作经验：5 年\n技能标签：Java、A/B Test、Golang、Docker、Excel\n职业目标：在金融数据团队从事风控/特征工程工作",
+    "rag_answer": "### 匹配度评分：75分\n杨华的技能标签中包含了Java和Docker，与Java后端开发和运维工程师岗位要求较为匹配，但缺乏金融行业经验。\n\n### 推荐岗位列表：\n1. **Java 后端开发**\n   - 公司：聚合金融\n   - 城市：上海\n   - 推荐理由：匹配Java技能，有助于核心业务系统设计与开发。\n\n2. **运维工程师**\n   - 公司：蓝鲸云\n   - 城市：杭州\n   - 推荐理由：匹配Docker技能，有助于维护公司云平台稳定运行。\n\n### 补充建议：\n- 建议加强对Linux系统管理的了解，以更好适应运维工程师岗位的要求。\n- 推荐参与与金融数据相关的项目经历，以提升金融行业经验。",
+    "sources_meta": [
+      {
+        "location": "杭州",
+        "company": "蓝鲸云",
+        "job_id": "JOB-004",
+        "title": "运维工程师"
+      },
+      {
+        "title": "Java 后端开发",
+        "company": "聚合金融",
+        "job_id": "JOB-006",
+        "location": "上海"
+      },
+      {
+        "title": "营销策划专员",
+        "job_id": "JOB-005",
+        "company": "星瀚传媒",
+        "location": "广州"
+      }
+    ]
+  },
+  {
+    "candidate": {
+      "name": "张杰",
+      "city_preference": "上海",
+      "years_experience": 6,
+      "skills": [
+        "NLP",
+        "Golang",
+        "Kubernetes",
+        "React",
+        "Pandas"
+      ],
+      "objective": "成为产品数据分析师，提升产品转化率和用户留存"
+    },
+    "profile_text": "姓名：张杰\n目标城市：上海优先\n工作经验：6 年\n技能标签：NLP、Golang、Kubernetes、React、Pandas\n职业目标：成为产品数据分析师，提升产品转化率和用户留存",
+    "rag_answer": "### 匹配度评分：60%\n\n### 推荐岗位列表：\n1. **岗位名称：Python 数据分析师**\n   - 公司：数据未来科技\n   - 城市：上海\n   - 推荐理由：候选人熟练使用 Python、具备数据分析经验，符合岗位要求\n\n### 针对候选人的补充建议：\n- 建议候选人加强对 Pandas 的熟练度，这是岗位要求中的关键技能之一。\n- 建议候选人在简历中突出展示与业务数据分析相关的项目经历，以提升竞争力。",
+    "sources_meta": [
+      {
+        "title": "Python 数据分析师",
+        "location": "上海",
+        "job_id": "JOB-001",
+        "company": "数据未来科技"
+      },
+      {
+        "title": "运维工程师",
+        "job_id": "JOB-004",
+        "company": "蓝鲸云",
+        "location": "杭州"
+      },
+      {
+        "company": "星瀚传媒",
+        "job_id": "JOB-005",
+        "location": "广州",
+        "title": "营销策划专员"
+      }
+    ]
+  }
+]
